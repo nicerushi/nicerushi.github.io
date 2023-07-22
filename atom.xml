@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RushiBlog</title>
+  
+  <subtitle>远观未来，静待花开</subtitle>
+  <link href="https://nicerushi.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://nicerushi.github.io/"/>
+  <updated>2023-07-22T08:07:30.679Z</updated>
+  <id>https://nicerushi.github.io/</id>
+  
+  <author>
+    <name>Rushi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://nicerushi.github.io/2023/07/22/test/"/>
+    <id>https://nicerushi.github.io/2023/07/22/test/</id>
+    <published>2023-07-22T08:07:05.000Z</published>
+    <updated>2023-07-22T08:07:30.679Z</updated>
+    
+    <content type="html"><![CDATA[<p>test</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;test&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
